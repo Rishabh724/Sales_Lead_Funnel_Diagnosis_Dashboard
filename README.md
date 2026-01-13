@@ -45,9 +45,6 @@ View the interactive worksheet here:
 ![Dashboard Preview] <img width="2190" height="1542" alt="image" src="https://github.com/user-attachments/assets/c855179d-9cfe-4a27-941a-a90498a07102" />
 
 
-
-
-
 ## Use Case
 This dashboard can be used by:
 - Sales Ops teams
