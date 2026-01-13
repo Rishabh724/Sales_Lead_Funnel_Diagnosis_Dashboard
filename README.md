@@ -8,6 +8,10 @@ The dashboard consolidates CRM call dispositions into actionable funnel states:
 - **Lost** (DNP)
 - **Converted** (Test Booked)
 
+ ## 🔗 Live Worksheet (Google Sheets)
+View the interactive worksheet here:  
+👉 https://docs.google.com/spreadsheets/d/18mgqBiilaXx90oVAv-Zor0priPNfMVk9Lme4yvCCljg/edit?usp=sharing
+
 ## Key Business Questions Answered
 - At which applicant stage are the maximum leads lost?
 - Which stages have high recovery potential?
