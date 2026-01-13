@@ -56,6 +56,3 @@ This dashboard can be used by:
 
 to prioritize follow-ups and improve overall conversion efficiency.
 
-## 🔗 Live Worksheet (Google Sheets)
-View the interactive worksheet here:  
-👉 https://docs.google.com/spreadsheets/d/18mgqBiilaXx90oVAv-Zor0priPNfMVk9Lme4yvCCljg/edit?usp=sharing
